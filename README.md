@@ -30,34 +30,43 @@ Java · Python · Angular · Spring Boot · SQL
 
 ## 🚀 Featured Projects
 
-### ☁️ AWS Cloud Deployment & CI/CD
-Designed and worked on deploying a web application on AWS with a focus on high availability and automation.
+### ☁️ AWS Cloud Infrastructure & CI/CD — Final Year Project
+**Technologies:** AWS, Terraform, Docker, Kubernetes (Amazon EKS), Amazon ECR, GitHub Actions, IAM, CloudWatch, Aurora PostgreSQL, S3
 
-- AWS infrastructure provisioning with Terraform
-- Containerization with Docker
-- Kubernetes deployment with Amazon EKS
-- Container image management with Amazon ECR
-- CI/CD automation using GitHub Actions
-- AWS services including IAM, CloudWatch, S3, and Aurora PostgreSQL
+Worked on a cloud deployment project focused on deploying a web application on AWS using Infrastructure as Code and CI/CD practices.
+
+- Infrastructure provisioning using Terraform.
+- Containerization and deployment using Docker and Amazon EKS.
+- Container image management using Amazon ECR.
+- CI/CD workflow automation using GitHub Actions.
+- AWS security and monitoring services, including IAM and CloudWatch.
+- Database and storage services using Aurora PostgreSQL and Amazon S3.
+
+*Source code is maintained in a private organization repository.*
 
 ### 🏗️ OpenStack Private Cloud
-Worked on a private cloud environment using OpenStack and supporting DevOps technologies.
+**Technologies:** OpenStack, Docker, Kubernetes, Ansible, Prometheus, Grafana, Angular, Spring Boot
 
-- Multi-node OpenStack infrastructure
-- Containerization and orchestration with Docker and Kubernetes
-- Infrastructure automation with Ansible
-- Monitoring with Prometheus and Grafana
-- Web application developed with Angular and Spring Boot
+Worked on a private cloud environment and an application deployed using cloud and DevOps technologies.
 
-### 🔄 Jenkins CI/CD Pipeline
-Implemented a CI/CD project for a Spring Boot application.
+- Multi-node OpenStack infrastructure.
+- Containerization and orchestration with Docker and Kubernetes.
+- Infrastructure automation using Ansible.
+- Monitoring with Prometheus and Grafana.
+- Web application development using Angular and Spring Boot.
 
-- Automated build and testing
-- Unit testing with JUnit and Mockito
-- Code quality analysis with SonarQube
-- Artifact management with Nexus
-- Docker integration
-- Monitoring with Prometheus and Grafana
+*Source code is maintained in a separate organization repository.*
+
+### 🔄 CI/CD Pipeline for a Spring Boot Application
+**Technologies:** Jenkins, Spring Boot, JUnit, Mockito, SonarQube, Nexus, Docker, Prometheus, Grafana
+
+Worked on a CI/CD pipeline designed to automate software build, testing, and quality checks.
+
+- Automated build and testing stages.
+- Unit testing with JUnit and Mockito.
+- Code quality analysis using SonarQube.
+- Artifact management with Nexus.
+- Docker integration and monitoring tools.
 
 ## 📫 Connect With Me
 
